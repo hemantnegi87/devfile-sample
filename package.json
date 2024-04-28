@@ -1,7 +1,7 @@
 {
   "name": "nodejs-starter",
   "version": "3.0.0",
-  "description": "Simple Node.js application",
+  "description": "Simple Node.js application"
   "license": "EPL-2.0",
   "scripts": {
     "start": "node server.js",
